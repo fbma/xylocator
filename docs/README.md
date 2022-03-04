@@ -1,5 +1,6 @@
 # M.plugin.XYLocator
 
+CAMBIADO 
 
 Plugin que permite localizar las coordenas introducidas por el usuario en un Sistema de referencia determinado.
 Las coordenadas son transformadas a proyección que tenga el mapa en ese momento.
